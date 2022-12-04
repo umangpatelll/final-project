@@ -26,7 +26,7 @@ h1 {
 
 .navbar-item {
   padding: 0 18px;
-  color: black;
+  color: rgb(255, 255, 255);
 }
 
 .navbar-link {
@@ -186,7 +186,6 @@ p {
 }
 
 #footer {
-  padding:;
   text-align: center;
 }
 
@@ -278,3 +277,22 @@ button:hover {
   text-align: center;
   font-size: 20px;
 }
+
+.btn-resume {
+  font-family: "Dosis";
+  padding: 2% 2%;
+  text-align: center;
+}
+
+.col-lg-6 h4 {
+padding: 0% 20% 5%;
+color: white;
+opacity: 70%;
+}
+
+.navbar-item{
+  font-family: "Dosis";
+  color:rgb(255, 255, 255)
+
+}
+
